@@ -7,3 +7,4 @@
 
 3. ¿Cómo verificó que las rutas de los enlaces en la barra de navegación eran correctas tanto en el entorno local como tras desplegar en GitHub Pages?
     - En el entorno local utilizando el nombre exacto de los archivos a los cuales estoy llamando, al estar en la misma carpeta solo basta con señalar el nombre y extensión y eso mantiene funcionando el vinculo.
+    - Mediante GitHub Pages implementa el mismo procedimiento, es decir, mientras se apunte al archivo exacto ya sea contenido en la misma carpeta o dentro de una sub-carpeta o una carpeta superior, si mantenemos la ruta bien definida no habrá problemas.
